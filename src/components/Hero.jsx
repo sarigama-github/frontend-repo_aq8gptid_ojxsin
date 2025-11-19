@@ -59,7 +59,9 @@ function Hero() {
 
           {/* Visual */}
           <div className="relative">
-            <LaptopMockup />
+            <div className="transform origin-center sm:scale-105 md:scale-125 lg:scale-150 xl:scale-[1.7]">
+              <LaptopMockup />
+            </div>
           </div>
         </div>
       </div>
