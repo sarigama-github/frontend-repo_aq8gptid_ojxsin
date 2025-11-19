@@ -166,7 +166,7 @@ export default function GoogleSERPScreen() {
                 <div className="h-2 w-full rounded bg-rose-200 overflow-hidden">
                   <motion.div
                     className="h-full"
-                    animate={{ width: highlight ? "88%" : `${30 + (5 - targetIndex) * 10}%", backgroundColor: highlight ? brand.primary : "#f43f5e" }}
+                    animate={{ width: highlight ? "88%" : `${30 + (5 - targetIndex) * 10}%`, backgroundColor: highlight ? brand.primary : "#f43f5e" }}
                     transition={{ type: "spring", stiffness: 160, damping: 18 }}
                   />
                 </div>
