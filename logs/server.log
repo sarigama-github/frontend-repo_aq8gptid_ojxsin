@@ -3,9 +3,9 @@
 > vite
 
 
-  VITE v5.4.20  ready in 264 ms
+  VITE v5.4.20  ready in 251 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.0.183:3000/
-10:15:27 AM [vite] ✨ new dependencies optimized: framer-motion
-10:15:27 AM [vite] ✨ optimized dependencies changed. reloading
+10:23:14 AM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/GoogleSERPScreen.jsx:182:0: ERROR: Unterminated string literal
